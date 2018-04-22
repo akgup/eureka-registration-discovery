@@ -2,7 +2,7 @@
 This contains demo project of eureka service registration and discovery also use of hystrix and Feign Client
 
 # Requirements
-* Eclipse
+* IntelliJ IDEA
 * Gradle 4.xx
 * Springboot 2.0.1.RELEASE
 * Java 8
