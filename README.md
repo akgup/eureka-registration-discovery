@@ -33,7 +33,7 @@ cd ..//eureka-registration-discovery/eureka-feign-client and run 'gradle bootRun
 	 compile('org.springframework.cloud:spring-cloud-starter-openfeign')
    compile group: 'org.springframework.cloud', name: 'spring-cloud-starter-hystrix', version: '1.4.4.RELEASE'
 
-We have successfully imo=plemented the Eureka Service Registery and discovery. 
+We have successfully implemented the Eureka Service Registery and discovery.
 
 ## Test Hystrix Configuration
 Kill the greeting-service and hit http://localhost:8888/get-greeting now response should say "Hello from Fallback Service!"
