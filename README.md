@@ -1,6 +1,8 @@
 # eureka-registration-discovery
 This contains demo project of eureka service registration and discovery also use of hystrix and Feign Client
 
+![Alt text](eureka_flow.png?raw=true "Title")
+
 # Requirements
 * IntelliJ IDEA
 * Gradle 4.xx
