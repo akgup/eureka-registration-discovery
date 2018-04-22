@@ -10,11 +10,11 @@ import org.springframework.web.bind.annotation.RestController;
 public class GreetingController {
 
 	@Autowired
-    private GreetingService greetingService;
+    private GreetingFeignService greetingFeignService;
 	
 	 @RequestMapping(value = "/get-greeting", method = RequestMethod.GET)
 	    public String greeting() {
-	       String greeting= greetingService.greeting();
+	       String greeting= greetingFeignService.greeting();
 	       return greeting;
 	    }
 	 

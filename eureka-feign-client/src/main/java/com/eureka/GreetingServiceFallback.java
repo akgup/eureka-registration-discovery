@@ -3,7 +3,7 @@ package com.eureka;
 import org.springframework.stereotype.Component;
 
 @Component
-public class GreetingServiceFallback implements GreetingService{
+public class GreetingServiceFallback implements GreetingFeignService{
 
 	@Override
 	public String greeting() {

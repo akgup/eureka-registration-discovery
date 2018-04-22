@@ -1,0 +1,5 @@
+#org.springsource.ide.eclipse.gradle.core.preferences.GradleProjectPreferences
+#Sun Apr 22 22:40:46 IST 2018
+build.family.org.gradle.tooling.model.eclipse.HierarchicalEclipseProject=;eureka-feign-client;eureka-server;greeting-service;
+org.springsource.ide.eclipse.gradle.linkedresources=
+org.springsource.ide.eclipse.gradle.rootprojectloc=
