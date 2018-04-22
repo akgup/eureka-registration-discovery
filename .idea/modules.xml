@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-feign-client/eureka-feign-client.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-feign-client/eureka-feign-client.iml" group="eureka-feign-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-feign-client/eureka-feign-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-feign-client/eureka-feign-client_main.iml" group="eureka-feign-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-feign-client/eureka-feign-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-feign-client/eureka-feign-client_test.iml" group="eureka-feign-client" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-registration-discovery.iml" filepath="$PROJECT_DIR$/eureka-registration-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server/eureka-server.iml" group="eureka-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server/eureka-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server/eureka-server_main.iml" group="eureka-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server/eureka-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server/eureka-server_test.iml" group="eureka-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/greeting-service/greeting-service.iml" filepath="$PROJECT_DIR$/.idea/modules/greeting-service/greeting-service.iml" group="greeting-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/greeting-service/greeting-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/greeting-service/greeting-service_main.iml" group="greeting-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/greeting-service/greeting-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/greeting-service/greeting-service_test.iml" group="greeting-service" />
+    </modules>
+  </component>
+</project>
